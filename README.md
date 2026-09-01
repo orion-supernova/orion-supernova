@@ -1,6 +1,6 @@
 # Murat Can Koç &nbsp;·&nbsp; `@orion-supernova`
 
-📱 iOS & mobile engineer &nbsp;·&nbsp; 📍 Stockholm &nbsp;·&nbsp; 🌐 [walhallaa.com](https://walhallaa.com)
+📱 iOS & mobile engineer &nbsp;·&nbsp; 📍 Istanbul &nbsp;·&nbsp; 🌐 [walhallaa.com](https://walhallaa.com)
 
 5+ years in Swift and Objective-C. Flutter when the second platform actually matters.
 50+ App Store releases on high-traffic consumer apps — plus [eight of my own](https://apps.apple.com/developer/murat-can-koc/id1546710591) shipped on the side: a clipboard manager, a party game, a book tracker, a chat app, an idle space clicker and many more.
