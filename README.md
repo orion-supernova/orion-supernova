@@ -50,7 +50,7 @@
 🔍 **[specdeck](https://github.com/orion-supernova/specdeck)** — every identifier an iPhone can be asked for, ranked by what it costs to ask: free → permission-gated → entitlement-gated → sealed off by Apple. Includes UDID, serial and IMEI via Over-the-Air Profile Delivery, which no App Store app can read.
 `SwiftUI` `zero deps` `Node profile service`
 
-⚗️ **[ElixirDemo](https://github.com/orion-supernova/ElixirDemo)** — medication & hydration tracker built as an RPG. Streak multiplier up to 2×, eight theme realms that rewrite every rank, symbol and notification string, home-screen widget in nine layouts.
+⚗️ **[ElixirDemo](https://github.com/orion-supernova/ElixirDemo)** — medication & hydration tracker with an XP and streak layer, multiplier up to 2×. Opens plain and iOS-native; the RPG framing is one option among eight themes — four fantasy realms, two cyberpunk, two clean, plus a builder for your own — and picking one rewrites the fonts, ranks, symbols and notification copy. Home-screen widget in nine layouts.
 `SwiftUI` `SwiftData` `100% on-device`
 
 🕵️ **[spygame](https://github.com/orion-supernova/spygame)** — social deduction party game. 3–12 players, four-letter room codes, no accounts, and a server-authoritative round timer that survives backgrounding.
