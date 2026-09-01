@@ -1,19 +1,9 @@
 # Murat Can Koç &nbsp;·&nbsp; `@orion-supernova`
 
-📱 iOS & mobile engineer &nbsp;·&nbsp; 📍 Stockholm &nbsp;·&nbsp; 🌐 [walhallaa.com](https://walhallaa.com) &nbsp;·&nbsp; 🍎 [8 apps on the App Store](https://apps.apple.com/developer/murat-can-koc/id1546710591)
+📱 iOS & mobile engineer &nbsp;·&nbsp; 📍 Stockholm &nbsp;·&nbsp; 🌐 [walhallaa.com](https://walhallaa.com)
 
-Swift and Objective-C since 2019, paid for it since 2021. Flutter when the second platform actually matters.
-
-**Where I've shipped**
-
-🇸🇪 **Swirl AB** — Stockholm, 2025 → now
-&nbsp;&nbsp;&nbsp;&nbsp;Cross-platform app from an empty repo. Flutter + Dart, Supabase for realtime sync / auth / storage, CI/CD wired end to end so releases are boring.
-
-🇹🇷 **Nesine** — Turkey's largest internet company *(per FastCompany)*, 2021 → 2024
-&nbsp;&nbsp;&nbsp;&nbsp;Clean Architecture refactor with GCD + OperationQueues → **+30% performance**. Local Swift Packages → **−20% codebase complexity**. **50+ releases** at a sustained **4.5★**.
-
-🇹🇷 **Skechers iOS** @ Appcent — 2021
-&nbsp;&nbsp;&nbsp;&nbsp;Features in Swift + UIKit, and **−15% crash rate**.
+5+ years in Swift and Objective-C. Flutter when the second platform actually matters.
+50+ App Store releases on high-traffic consumer apps — plus [eight of my own](https://apps.apple.com/developer/murat-can-koc/id1546710591) shipped on the side: a book tracker, a clipboard manager, a party game, a chat app and an idle space clicker.
 
 **How I build:** on-device first · zero dependencies where I can get away with it · a backend only when the feature genuinely needs one · MVVM / Clean / VIPER picked per project, not per résumé.
 
