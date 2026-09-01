@@ -7,7 +7,7 @@
 
 **How I build:** on-device first · zero dependencies where I can get away with it · a backend only when the feature genuinely needs one · MVVM / Clean / VIPER picked per project, not per résumé.
 
-> 🎬 Past life: previsualization and CGI in Unreal Engine for the feature film *Özgür Dünya*, and technical lead on stage productions between acting in them. It still shows in the UI.
+> 🎬 Past life: previsualization and CGI in Unreal Engine for the feature film *Özgür Dünya*, and technical lead on stage productions between acting in them. Composition, timing and motion — I learned them there, and I still use them on every screen I build.
 
 ---
 
