@@ -3,7 +3,7 @@
 📱 iOS & mobile engineer &nbsp;·&nbsp; 📍 Stockholm &nbsp;·&nbsp; 🌐 [walhallaa.com](https://walhallaa.com)
 
 5+ years in Swift and Objective-C. Flutter when the second platform actually matters.
-50+ App Store releases on high-traffic consumer apps — plus [eight of my own](https://apps.apple.com/developer/murat-can-koc/id1546710591) shipped on the side: a book tracker, a clipboard manager, a party game, a chat app and an idle space clicker.
+50+ App Store releases on high-traffic consumer apps — plus [eight of my own](https://apps.apple.com/developer/murat-can-koc/id1546710591) shipped on the side: a clipboard manager, a party game, a book tracker, a chat app, an idle space clicker and many more.
 
 **How I build:** on-device first · zero dependencies where I can get away with it · a backend only when the feature genuinely needs one · MVVM / Clean / VIPER picked per project, not per résumé.
 
@@ -44,6 +44,9 @@
 
 ## 📦 Things I've shipped
 
+📋 **[clipboardManager](https://github.com/orion-supernova/clipboardManager)** — macOS clipboard history that never takes focus. ⌘⇧V slides a non-activating panel over whatever you're writing in, and Return pastes straight back into it. Cards, IBANs and ten token shapes are caught on sight and stored masked, and screenshots go through on-device text recognition, so you can find one by a word that was inside the picture.
+`SwiftUI` `TCA` `macOS` — [on the App Store](https://apps.apple.com/us/app/clipboard-mahmut/id6446905294) as *Clipboard Mahmut*
+
 🍿 **[WatchSync](https://github.com/orion-supernova/WatchSync)** — a macOS app for watching a film together without screen sharing. Everyone plays their own copy at full quality and only the controls travel — pause, play and seek, over a six-character code. Reads Now Playing through the one path that still works after macOS 15.4, so it drives apps that expose no API at all.
 `SwiftUI` `Convex` `macOS` — [walhallaa.com/watchsync](https://walhallaa.com/watchsync)
 
@@ -70,8 +73,6 @@ brew tap orion-supernova/tap
 brew install shell-star   # 🛰  Vapor chat server — rooms, passwords, presence, actors
 brew install term-beam    # 💬  terminal client — history, auto-reconnect, health checks
 ```
-
-📋 Also: **[clipboardManager](https://github.com/orion-supernova/clipboardManager)** — open-source macOS clipboard manager with a launch-at-login helper, [shipping as *Clipboard Mahmut*](https://apps.apple.com/us/app/clipboard-mahmut/id6446905294).
 
 ---
 
