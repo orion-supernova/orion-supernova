@@ -1,13 +1,23 @@
 # Murat Can Koç &nbsp;·&nbsp; `@orion-supernova`
 
-📱 iOS & mobile engineer &nbsp;·&nbsp; 📍 Stockholm &nbsp;·&nbsp; 🌐 [walhallaa.com](https://walhallaa.com)
+📱 iOS & mobile engineer &nbsp;·&nbsp; 📍 Stockholm &nbsp;·&nbsp; 🌐 [walhallaa.com](https://walhallaa.com) &nbsp;·&nbsp; 🍎 [8 apps on the App Store](https://apps.apple.com/developer/murat-can-koc/id1546710591)
 
-Swift and Objective-C since 2019, Flutter when the second platform actually matters.
-50+ shipped releases on a high-traffic platform (**Nesine**), cross-platform product work at **Swirl**.
+Swift and Objective-C since 2019, paid for it since 2021. Flutter when the second platform actually matters.
+
+**Where I've shipped**
+
+🇸🇪 **Swirl AB** — Stockholm, 2025 → now
+&nbsp;&nbsp;&nbsp;&nbsp;Cross-platform app from an empty repo. Flutter + Dart, Supabase for realtime sync / auth / storage, CI/CD wired end to end so releases are boring.
+
+🇹🇷 **Nesine** — Turkey's largest internet company *(per FastCompany)*, 2021 → 2024
+&nbsp;&nbsp;&nbsp;&nbsp;Clean Architecture refactor with GCD + OperationQueues → **+30% performance**. Local Swift Packages → **−20% codebase complexity**. **50+ releases** at a sustained **4.5★**.
+
+🇹🇷 **Skechers iOS** @ Appcent — 2021
+&nbsp;&nbsp;&nbsp;&nbsp;Features in Swift + UIKit, and **−15% crash rate**.
 
 **How I build:** on-device first · zero dependencies where I can get away with it · a backend only when the feature genuinely needs one · MVVM / Clean / VIPER picked per project, not per résumé.
 
-> 🎬 Before software: Unreal Engine CGI and tech for interactive theatre. It still shows in the UI.
+> 🎬 Past life: previsualization and CGI in Unreal Engine for the feature film *Özgür Dünya*, and technical lead on stage productions between acting in them. It still shows in the UI.
 
 ---
 
@@ -51,7 +61,7 @@ Swift and Objective-C since 2019, Flutter when the second platform actually matt
 `SwiftUI` `SwiftData` `100% on-device`
 
 🕵️ **[spygame](https://github.com/orion-supernova/spygame)** — social deduction party game. 3–12 players, four-letter room codes, no accounts, and a server-authoritative round timer that survives backgrounding.
-`Flutter` `Convex` `iOS · Android · Web`
+`Flutter` `Convex` `iOS · Android · Web` — [on the App Store](https://apps.apple.com/us/app/where-am-i-spy-game/id6764593980) as *Where am I?*
 
 📖 **[kachaow-reader](https://github.com/orion-supernova/kachaow-reader)** — RSVP speed reader with per-word pacing, PDF repair on import, and on-device neural narration.
 `Flutter` `iOS · macOS · Android`
@@ -68,7 +78,7 @@ brew install shell-star   # 🛰  Vapor chat server — rooms, passwords, presen
 brew install term-beam    # 💬  terminal client — history, auto-reconnect, health checks
 ```
 
-📋 Also: **[clipboardManager](https://github.com/orion-supernova/clipboardManager)** — open-source macOS clipboard manager with a launch-at-login helper.
+📋 Also: **[clipboardManager](https://github.com/orion-supernova/clipboardManager)** — open-source macOS clipboard manager with a launch-at-login helper, [shipping as *Clipboard Mahmut*](https://apps.apple.com/us/app/clipboard-mahmut/id6446905294).
 
 ---
 
