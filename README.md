@@ -30,10 +30,10 @@ Swift and Objective-C since 2019, Flutter when the second platform actually matt
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square)
 
 **Cloud & tooling**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&labelColor=232F3E)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![CloudKit](https://img.shields.io/badge/CloudKit-3693F3?style=flat-square&logo=icloud&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
@@ -74,14 +74,15 @@ brew install term-beam    # 💬  terminal client — history, auto-reconnect, h
 
 ## 📊 Stats
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=orion-supernova&theme=dark&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" />
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orion-supernova&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=orion-supernova&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 
 ---
 
 ## 📬 Say hi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratcankoc/)
+[![LinkedIn][linkedin-badge]](https://www.linkedin.com/in/muratcankoc/)
 [![Website](https://img.shields.io/badge/walhallaa.com-000000?style=flat-square&logo=safari&logoColor=white)](https://walhallaa.com)
 
 <sub>Open to interesting mobile problems. Especially the ones with a hardware or latency constraint attached.</sub>
+
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPgo=
