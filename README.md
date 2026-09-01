@@ -44,6 +44,9 @@
 
 ## 📦 Things I've shipped
 
+🍿 **[WatchSync](https://github.com/orion-supernova/WatchSync)** — watch a film together without screen sharing. Everyone plays their own copy at full quality and only the controls travel — pause, play and seek, over a six-character code. Reads Now Playing through the one path that still works after macOS 15.4, so it drives apps that expose no API at all.
+`SwiftUI` `Convex` `macOS` — [walhallaa.com/watchsync](https://walhallaa.com/watchsync)
+
 🔍 **[specdeck](https://github.com/orion-supernova/specdeck)** — every identifier an iPhone can be asked for, ranked by what it costs to ask: free → permission-gated → entitlement-gated → sealed off by Apple. Includes UDID, serial and IMEI via Over-the-Air Profile Delivery, which no App Store app can read.
 `SwiftUI` `zero deps` `Node profile service`
 
