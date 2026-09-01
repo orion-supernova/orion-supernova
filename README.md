@@ -1,51 +1,87 @@
-# Hi there, I'm Murat Can Koç 👋
+# Murat Can Koç &nbsp;·&nbsp; `@orion-supernova`
 
-With 5+ years of professional experience in mobile application development, my passion for software and building creative digital products has been the driving force throughout my career. As a dedicated iOS and Mobile Software Engineer, I focus on crafting high performance, maintainable, and user centric applications using Swift & Objective C, Dart & Flutter.
+📱 iOS & mobile engineer &nbsp;·&nbsp; 📍 Stockholm &nbsp;·&nbsp; 🌐 [walhallaa.com](https://walhallaa.com)
 
-Throughout my career, from high scale platforms like Nesine (where I contributed to refactoring core architectures and managing 50+ successful releases) to cross platform products at Swirl, I have always strived for clean, modular, and readable code (MVVM, Clean Architecture, VIPER). Beyond frontend mobile development, I actively leverage modern BaaS solutions, backend engines, and developer tools like Supabase, PocketBase, Firebase, Vapor, CloudKit, and AI workflows to build end to end solutions.
+Swift and Objective-C since 2019, Flutter when the second platform actually matters.
+50+ shipped releases on a high-traffic platform (**Nesine**), cross-platform product work at **Swirl**.
 
-What sets me apart is the blend of engineering precision with a strong background in creative arts, ranging from Unreal Engine CGI work and interactive theater tech leading to UI/UX sensitivity. I thrive in collaborative, Agile driven team environments where clear communication, continuous learning, and impactful execution are valued.
+**How I build:** on-device first · zero dependencies where I can get away with it · a backend only when the feature genuinely needs one · MVVM / Clean / VIPER picked per project, not per résumé.
 
-I am always excited to connect with creative teams and tackle challenging projects that push mobile engineering forward.
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratcankoc/)
+> 🎬 Before software: Unreal Engine CGI and tech for interactive theatre. It still shows in the UI.
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Stack
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**Mobile**
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=uikit&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-FF6B35?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Backend & data**
+![Vapor](https://img.shields.io/badge/Vapor-0D0D0D?style=flat-square&logo=vapor&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+**Cloud & tooling**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![CloudKit](https://img.shields.io/badge/CloudKit-3693F3?style=flat-square&logo=icloud&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📦 Things I've shipped
 
-![](https://github-readme-stats.vercel.app/api?username=orion-supernova&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=orion-supernova&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=orion-supernova&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🔍 **[specdeck](https://github.com/orion-supernova/specdeck)** — every identifier an iPhone can be asked for, ranked by what it costs to ask: free → permission-gated → entitlement-gated → sealed off by Apple. Includes UDID, serial and IMEI via Over-the-Air Profile Delivery, which no App Store app can read.
+`SwiftUI` `zero deps` `Node profile service`
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=orion-supernova&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+⚗️ **[ElixirDemo](https://github.com/orion-supernova/ElixirDemo)** — medication & hydration tracker built as an RPG. Streak multiplier up to 2×, eight theme realms that rewrite every rank, symbol and notification string, home-screen widget in nine layouts.
+`SwiftUI` `SwiftData` `100% on-device`
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=orion-supernova&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🕵️ **[spygame](https://github.com/orion-supernova/spygame)** — social deduction party game. 3–12 players, four-letter room codes, no accounts, and a server-authoritative round timer that survives backgrounding.
+`Flutter` `Convex` `iOS · Android · Web`
+
+📖 **[kachaow-reader](https://github.com/orion-supernova/kachaow-reader)** — RSVP speed reader with per-word pacing, PDF repair on import, and on-device neural narration.
+`Flutter` `iOS · macOS · Android`
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=orion-supernova&icon=2&color=6)](https://visitcount.itsvg.in)
+## 🍺 Terminal side of the house
+
+A WebSocket chat stack written end-to-end in Swift 6 — Vapor + NIO server, actor-isolated state, RFC 6455 compliant, plus a TUI client that speaks to it.
+
+```sh
+brew tap orion-supernova/tap
+brew install shell-star   # 🛰  Vapor chat server — rooms, passwords, presence, actors
+brew install term-beam    # 💬  terminal client — history, auto-reconnect, health checks
+```
+
+📋 Also: **[clipboardManager](https://github.com/orion-supernova/clipboardManager)** — open-source macOS clipboard manager with a launch-at-login helper.
+
+---
+
+## 📊 Stats
+
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=orion-supernova&theme=dark&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orion-supernova&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" />
+
+---
+
+## 📬 Say hi
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratcankoc/)
+[![Website](https://img.shields.io/badge/walhallaa.com-000000?style=flat-square&logo=safari&logoColor=white)](https://walhallaa.com)
+
+<sub>Open to interesting mobile problems. Especially the ones with a hardware or latency constraint attached.</sub>
